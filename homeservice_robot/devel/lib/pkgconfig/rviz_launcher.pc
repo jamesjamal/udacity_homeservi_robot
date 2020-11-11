@@ -1,0 +1,8 @@
+prefix=/home/james/homeservice_robot/devel
+
+Name: rviz_launcher
+Description: Description of rviz_launcher
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

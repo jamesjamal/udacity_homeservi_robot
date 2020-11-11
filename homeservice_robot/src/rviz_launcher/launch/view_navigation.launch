@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<launch>
+
+  <!--launch rviz-->
+<node type="rviz" name="rviz" pkg="rviz" output="screen" args="-d $(find rviz_config)/rvizmap.rviz"/>
+
+</launch>
+
+
+<!--args="-d $(find my_robot)/rviz/config_file.rviz"-->

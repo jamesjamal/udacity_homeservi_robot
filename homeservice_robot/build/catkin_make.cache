@@ -1,0 +1,2 @@
+add_markers:map:my_robot:pick_objects:rviz_config:rviz_launcher:slam_gmapping/gmapping:slam_gmapping/slam_gmapping:where_am_i
+-DCATKIN_DEVEL_PREFIX=/home/james/homeservice_robot/devel -DCMAKE_INSTALL_PREFIX=/home/james/homeservice_robot/install -G Unix Makefiles
