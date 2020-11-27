@@ -1,5 +1,7 @@
 # udacity_homeservi_robot
-finsal project in udacity robotic sdoftware engineerign course
+Final project in udacity robotic sdoftware engineerign course
+
+The difficult part to publish the marker in map on pickup location and disappearing itonce it reached the position
 
 # ROS based Autonamous service robot
 
