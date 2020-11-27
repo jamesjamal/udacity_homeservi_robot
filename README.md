@@ -1,4 +1,4 @@
-# udacity_homeservi_robot
+# udacity_homeservice_robot
 Final project in udacity robotic sdoftware engineerign course
 
 The difficult part to publish the marker in map on pickup location and disappearing itonce it reached the position
